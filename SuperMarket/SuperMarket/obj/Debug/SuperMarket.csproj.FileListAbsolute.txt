@@ -1,0 +1,10 @@
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\Tanvi Patwa\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
